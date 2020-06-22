@@ -1,2 +1,2 @@
 # Web-Mining-Basics
-Programs which demonstrates basic web mining concepts
+Implementation of basic programs for Web Mining
